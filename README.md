@@ -9,5 +9,31 @@ Egresado de Economía con experiencia en el sector educativo. Habilidades destac
 ___
 ### Conocimientos acerca de:
 #### Softwares estadísticos
-<p align="left"> <a href="https://www.stata.com/" target="_blank"> <img src="https://imgur.com/a/Z3ihhZP" alt="Stata" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+<p align="left">
+  <!-- Stata -->
+  <a href="https://www.stata.com/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" alt="stata" width="65" height="65"/>
+  </a>
+
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="URL_DEL_ICONO_R" alt="r" width="65" height="65"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="URL_DEL_ICONO_PYTHON" alt="python" width="65" height="65"/>
+  </a>
+
+  <!-- Eviews -->
+  <a href="https://www.eviews.com/" target="_blank">
+    <img src="URL_DEL_ICONO_EVIEWS" alt="eviews" width="65" height="65"/>
+  </a>
+
+  <!-- Matlab -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="URL_DEL_ICONO_MATLAB" alt="matlab" width="65" height="65"/>
+  </a>
 </p>
+
+
