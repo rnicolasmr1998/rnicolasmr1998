@@ -42,6 +42,7 @@ ___
 - Elaboración de planes estratégicos.
 - Construcción de indicadores.
 - Elaboración de flujogramas.
+- Web scraping con R y Python.
 - Asesoramiento en proyectos de investigación.
 ___
 #### Contacto☕️
