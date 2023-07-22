@@ -32,4 +32,8 @@ ___
   </a>
 </p>
 
+#### Contacto☕️
+<p align="left">
+<a href="www.linkedin.com/in/rnicolas98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nicolas Marroquin" height="30" width="40" />linkedin</a>
+<a href="rnicolas.mr.98@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Nicolas Marroquin" height="30" width="40" />csalvadordiaz689@gmail.com</a>
 
