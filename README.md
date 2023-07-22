@@ -34,6 +34,6 @@ ___
 
 #### Contacto☕️
 <p align="left">
-<a href="www.linkedin.com/in/rnicolas98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nicolas Marroquin" height="30" width="40" />linkedin</a>
-<a href="rnicolas.mr.98@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Nicolas Marroquin" height="30" width="40" />csalvadordiaz689@gmail.com</a>
+<a href="www.linkedin.com/in/rnicolas98" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Nicolas Marroquin" height="30" width="40" />linkedin</a>
+<a href="rnicolas.mr.98@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Nicolas Marroquin" height="30" width="40" />rnicolas.mr.98@gmail.com</a>
 
