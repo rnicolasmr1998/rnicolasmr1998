@@ -18,20 +18,17 @@ ___
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="r" width="65" height="65"/>
   </a>
-
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
-    <img src="URL_DEL_ICONO_PYTHON" alt="python" width="65" height="65"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="65" height="65"/>
   </a>
-
   <!-- Eviews -->
   <a href="https://www.eviews.com/" target="_blank">
-    <img src="URL_DEL_ICONO_EVIEWS" alt="eviews" width="65" height="65"/>
+    <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_eviews---icono/im_eviews---icono.png" alt="eviews" width="65" height="65"/>
   </a>
-
   <!-- Matlab -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="URL_DEL_ICONO_MATLAB" alt="matlab" width="65" height="65"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="65" height="65"/>
   </a>
 </p>
 
