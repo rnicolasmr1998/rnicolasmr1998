@@ -36,7 +36,13 @@ ___
   </a>
 </p>
 
-#### Gestión por procesos
+#### Hard skills
+- Elaboración de Dashboard con Power BI.
+- Modelamiento econométrico y machine learning.
+- Elaboración de planes estratégicos.
+- Construcción de indicadores.
+- Elaboración de flujogramas.
+- Asesoramiento en proyectos de investigación.
 ___
 #### Contacto☕️
 <p align="left">
