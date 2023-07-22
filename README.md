@@ -17,7 +17,7 @@ ___
 
   <!-- R -->
   <a href="https://www.r-project.org/" target="_blank">
-    <img src="URL_DEL_ICONO_R" alt="r" width="65" height="65"/>
+    <img src="https://play-lh.googleusercontent.com/IpkkmKM1HhCHJEB9-fqJZ9_xBtJyYLLbf75WtELjDdZxzAnJLASwKAzSeW1BNDNzDown" alt="r" width="65" height="65"/>
   </a>
 
   <!-- Python -->
