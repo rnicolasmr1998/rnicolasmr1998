@@ -1,5 +1,5 @@
 ## Mi nombre es Nicolas Marroquin 👋
-### Analista junior de datos enfocado al analisis económico-social 💻 actualmente en **búsqueda activa** de empleo ♨️
+### Egresado de Economía con experiencia en el sector educativo, especializado en mejorar procesos. Habilidades destacadas en el análisis de datos y el uso de herramientas estadísticas. Poseo habilidades blandas altamente valoradas, incluyendo comunicación efectiva, habilidades interpersonales, trabajo en equipo, adaptabilidad y orientación a resultados. Actualmente en **búsqueda activa** de empleo para aplicar mi conocimiento y habilidades en un entorno administrativo dinámico.
 ### Actualmente me dedico a:
 - Reforzar conocimientos sobre la teoría microeconómica y macroeconómica.
 - Estudiar una especialización en Econometría Aplicada.
