@@ -12,23 +12,23 @@ ___
 <p align="left">
   <!-- Stata -->
   <a href="https://www.stata.com/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" alt="stata" width="65" height="65"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" alt="stata" width="55" height="55"/>
   </a>
   <!-- R -->
   <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="r" width="65" height="65"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="r" width="55" height="55"/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="65" height="65"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="55" height="55"/>
   </a>
   <!-- Eviews -->
   <a href="https://www.eviews.com/" target="_blank">
-    <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_eviews---icono/im_eviews---icono.png" alt="eviews" width="65" height="65"/>
+    <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_eviews---icono/im_eviews---icono.png" alt="eviews" width="55" height="55"/>
   </a>
   <!-- Matlab -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="65" height="65"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="55" height="55"/>
   </a>
 </p>
 
