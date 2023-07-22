@@ -14,10 +14,9 @@ ___
   <a href="https://www.stata.com/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" alt="stata" width="65" height="65"/>
   </a>
-
   <!-- R -->
   <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/IpkkmKM1HhCHJEB9-fqJZ9_xBtJyYLLbf75WtELjDdZxzAnJLASwKAzSeW1BNDNzDown" alt="r" width="65" height="65"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="r" width="65" height="65"/>
   </a>
 
   <!-- Python -->
