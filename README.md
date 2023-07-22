@@ -4,5 +4,5 @@
 - Reforzar conocimientos sobre la teoría microeconómica y macroeconómica.
 - Estudiar una especialización en Econometría Aplicada.
 - Desarrollo de mi proyecto de tesis titulado: "Factores que inciden en la deserción universitaria en el Perú"
-- Construcción de indicadores económicos - sociales usando los microdatos del INEI.
+- Construcción de indicadores económicos - sociales usando los microdatos del INEI.a
 ___
