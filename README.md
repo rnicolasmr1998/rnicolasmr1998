@@ -6,3 +6,5 @@
 - Desarrollo de mi proyecto de tesis titulado: "Factores que inciden en la deserción universitaria en el Perú"
 - Construcción de indicadores económicos - sociales usando los microdatos del INEI.
 ___
+### Conocimientos acerca de:
+#### Softwares estadísticos
