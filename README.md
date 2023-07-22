@@ -9,3 +9,5 @@ Egresado de Economía con experiencia en el sector educativo. Habilidades destac
 ___
 ### Conocimientos acerca de:
 #### Softwares estadísticos
+<p align="left"> <a href="https://www.stata.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+</p>
