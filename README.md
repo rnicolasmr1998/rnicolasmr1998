@@ -50,7 +50,8 @@ ___
 <a href="https://www.linkedin.com/in/rnicolas98/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Nicolas Marroquin" height="30" width="40" /> linkedin</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="rnicolas.mr.98@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Nicolas Marroquin" height="30" width="40" /> rnicolas.mr.98@gmail.com</a>
+<a href="mailto:rnicolas.mr.98@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Nicolas Marroquin" height="30" width="40" />
+  rnicolas.mr.98@gmail.com
+</a>
 </p>
-
-
-[LinkedIn](https://www.linkedin.com/in/rnicolas98/)
