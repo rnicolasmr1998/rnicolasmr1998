@@ -4,7 +4,7 @@ Egresado de Economía con experiencia en el sector educativo. Habilidades destac
 - Reforzar conocimientos sobre la teoría microeconómica y macroeconómica.
 - Estudiar una especialización en Econometría Aplicada.
 - Desarrollo de mi proyecto de tesis titulado: "Factores que inciden en la deserción universitaria en el Perú".
-- Miembro de un voluntariado enfocado a las Políticas Públicas.
+- Integrante de un voluntariado enfocado a las Políticas Públicas.
 - Construcción de indicadores económicos - sociales usando los microdatos del INEI.
 ___
 ### Conocimientos acerca de:
