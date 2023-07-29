@@ -47,7 +47,7 @@ ___
 ___
 #### Contacto☕️
 <p align="left">
-  <a href="https://www.linkedin.com/in/rnicolas98/" target="blank"> <img align="center"
+  <a href="https://www.linkedin.com/in/rnicolas98/" target="_blank"> <img align="center"
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Nicolas Marroquin" height="30" width="40"
   /> linkedin</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
