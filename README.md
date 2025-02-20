@@ -12,7 +12,7 @@ ___
 <p align="left">
   <!-- Stata -->
   <a href="https://www.stata.com/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" alt="stata" width="55" height="55"/>
+    <img src="https://www.stata.com/includes/images/stata-logo-blue.svg" alt="stata" width="55" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- R -->
