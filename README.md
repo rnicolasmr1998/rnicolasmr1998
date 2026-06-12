@@ -1,10 +1,16 @@
-# ¡Hola! Soy Nicolás Marroquín 👋
+# ¡Hola! Soy Nicolas Marroquin 👋
 
-Soy **Bachiller en Economía** y actualmente estudiante de **Ingeniería en Ciencia de Datos e Inteligencia Artificial**. Me especializo en el análisis de datos, la inteligencia de negocios y la generación de insights para la toma de decisiones.
+<p align="justify">
+Soy <strong>Bachiller en Economía</strong> y estudiante de <strong>Ingeniería en Ciencia de Datos e Inteligencia Artificial</strong>. Mi experiencia combina el análisis económico, la inteligencia de negocios y la ciencia de datos para apoyar la toma de decisiones basada en evidencia.
+</p>
 
-Actualmente me desempeño en una empresa del sector **Retail**, donde participo en la construcción de reportes, análisis de información, seguimiento de indicadores y generación de métricas que apoyan la gestión comercial y operativa del negocio.
+<p align="justify">
+Actualmente trabajo en una empresa del sector <strong>Retail</strong>, donde desarrollo reportes, monitoreo indicadores de desempeño (KPIs), analizo información comercial y genero métricas que contribuyen a la gestión estratégica y operativa del negocio.
+</p>
 
-Me interesa especialmente la intersección entre **Data Analytics, Business Intelligence, Ciencia de Datos y Economía Aplicada**, utilizando herramientas estadísticas y tecnológicas para transformar datos en información de valor.
+<p align="justify">
+Tengo especial interés en las áreas de <strong>Data Analytics, Business Intelligence, Data Science, Big Data y Economía Aplicada</strong>, aprovechando herramientas estadísticas, bases de datos y técnicas de aprendizaje automático para convertir datos en conocimiento accionable.
+</p>
 
 ---
 
@@ -107,13 +113,5 @@ Próximamente estaré compartiendo proyectos relacionados con:
 
 ## ☕ Contacto
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rnicolas98/" target="_blank">
-    <img align="center"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
-    alt="LinkedIn" height="30" width="30"/>
-    LinkedIn
-  </a>
-</p>
-
-📧 Correo: **[rnicolas.mr.98@gmail.com](mailto:rnicolas.mr.98@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Marroquín-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rnicolas98/)
+[![Email](https://img.shields.io/badge/Email-rnicolas.mr.98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnicolas.mr.98@gmail.com)
