@@ -113,5 +113,5 @@ Próximamente estaré compartiendo proyectos relacionados con:
 
 ## ☕ Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Marroquín-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rnicolas98/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Marroquin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rnicolas98/)
 [![Email](https://img.shields.io/badge/Email-rnicolas.mr.98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnicolas.mr.98@gmail.com)
